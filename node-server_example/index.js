@@ -5,6 +5,7 @@ const app = new http.Server((req, res) => {
 
   const pets= [
     {
+      id: 1,
       name: 'Java',
       birthdate: '12/11/14',
       age: 4,
@@ -12,6 +13,7 @@ const app = new http.Server((req, res) => {
       city: 'Segovia'
     },
     {
+      id: 2,
       name: 'Mika',
       birthdate: '04/04/10',
       age: 7,
@@ -24,11 +26,24 @@ const app = new http.Server((req, res) => {
     res.writeHead(200, {
       'Content-type': 'application/json'
     })
-
     res.write(JSON.stringify(pets))
-  }
 
-  res.end()
+  } else if(req.method === 'GET' && /\/pet\/\d+/.test(req.url)) {
+    let regex = /\/pet\/(\d+)/
+    regex.lastIndex = 0
+
+    const id = regex.exec(req.url)[1]
+    const pet = pets.find(pet => pet.id === parseInt(id))
+
+    if(pet) {
+      res.writeHead(200, {
+        'Content-type': 'application/json'
+      })
+      res.write(JSON.stringify(pet))
+    } else {
+      res.statusCode = 404
+    }
+  }
 })
 
 app.listen(3000)

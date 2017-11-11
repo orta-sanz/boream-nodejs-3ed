@@ -8,7 +8,7 @@ Install one exact version of the package
 Scripts:
 
 Run one script/execution line after `npm install`
-- `"postinstall" : "script"``
+- `"postinstall" : "script"`
 
 Run custom scripts (start, test are npm basics)
 - `npm run dev`
