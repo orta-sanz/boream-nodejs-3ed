@@ -27,6 +27,8 @@ const app = new http.Server((req, res) => {
 
     res.write(JSON.stringify(pets))
   }
+
+  res.end()
 })
 
 app.listen(3000)
