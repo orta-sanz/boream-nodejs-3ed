@@ -1,0 +1,13 @@
+{
+  "name": "curso_nodejs",
+  "version": "1.0.0",
+  "description": "Paquetes del curso",
+  "license": "ISC",
+  "devDependencies": {
+    "uuid": "^3.1.0"
+  },
+  "dependencies": {
+    "fs-promise": "^2.0.3",
+    "gulp": "^3.9.1"
+  }
+}
