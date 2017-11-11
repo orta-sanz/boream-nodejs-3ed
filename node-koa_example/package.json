@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "NODE_PATH=. nodemon index.js | bunyan"
   },
   "dependencies": {
     "bunyan": "^1.8.12",

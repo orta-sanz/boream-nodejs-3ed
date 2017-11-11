@@ -1,5 +1,6 @@
 const koa = require('koa')
-const logger = require('koa-logger')
+const koaLogger = require('koa-logger')
+const logger = require('inc/logger')
 
 const pets= [
   {
@@ -22,7 +23,7 @@ const pets= [
 
 const app = new koa()
 if(process.env.NODE_ENV !== 'prod') {
-  app.use(logger())
+  app.use(koaLogger())
 }
 
 // Middleware #1
@@ -41,4 +42,7 @@ app.use(async (ctx) => {
   ctx.body = pets
 })
 
-app.listen(3000)
+app.listen(3000, (err) => {
+  err && logger.error('Error listening', err)
+  err || logger.info('API listening in port 3000')
+})
