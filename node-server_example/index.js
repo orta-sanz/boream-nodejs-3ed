@@ -1,7 +1,8 @@
 const http = require('http')
+const log = require('../node-fs_example/class/log')
 
 const app = new http.Server((req, res) => {
-  console.log('New request')
+  log.info('Starting application')
 
   const pets= [
     {
@@ -22,12 +23,11 @@ const app = new http.Server((req, res) => {
     }
   ]
 
-  if(req.method === 'GET' && req.url === '/pet') {
+  if(req.method === 'GET' && req.url === '/pets') {
     res.writeHead(200, {
       'Content-type': 'application/json'
     })
     res.write(JSON.stringify(pets))
-
   } else if(req.method === 'GET' && /\/pet\/\d+/.test(req.url)) {
     let regex = /\/pet\/(\d+)/
     regex.lastIndex = 0
@@ -44,6 +44,8 @@ const app = new http.Server((req, res) => {
       res.statusCode = 404
     }
   }
+
+  res.end()
 })
 
 app.listen(3000)

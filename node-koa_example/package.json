@@ -1,0 +1,16 @@
+{
+  "name": "node-koa_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "koa": "^2.4.1",
+    "koa-logger": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
