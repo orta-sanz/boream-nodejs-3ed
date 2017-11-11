@@ -1,6 +1,5 @@
 const koa = require('koa')
 const logger = require('koa-logger')
-const log = require('../node-fs_example/class/log')
 
 const pets= [
   {
