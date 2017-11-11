@@ -1,5 +1,30 @@
 const fs = require('fs-promise')
-const log = require('./log')
+const log = require('./class/log')
+
+// Initial application run
+async function run(text) {
+  log.info('Running application')
+
+  log.debug('Checking if dir exists')
+  const files = await fs.readdir('.')
+
+  for (let i = 0; i < files.length; i++) {
+    const stat = await fs.lstat(`./${files[i]}`)
+    if(files[i] === 'logs' && stat.isDirectory()) {
+      await removeDir(`./${files[i]}`)
+    }
+  }
+
+  log.debug('Creating dir')
+  await fs.mkdir('logs')
+
+  log.debug('Writting file')
+  await fs.writeFile('logs/data.txt', text)
+
+  log.debug('Reading file')
+  let readValue = await fs.readFile('logs/data.txt')
+  log.debug(`Read: ${readValue.toString()}`)
+}
 
 // Remove dir function
 async function removeDir(path) {
@@ -21,29 +46,4 @@ async function removeDir(path) {
   await fs.rmdir(path)
 }
 
-// Initial application run
-async function run() {
-  log.info('Running application')
-
-  log.debug('Checking if dir exists')
-  const files = await fs.readdir('.')
-
-  for (let i = 0; i < files.length; i++) {
-    const stat = await fs.lstat(`./${files[i]}`)
-    if(files[i] === 'logs' && stat.isDirectory()) {
-      await removeDir(`./${files[i]}`)
-    }
-  }
-
-  log.debug('Creating dir')
-  await fs.mkdir('logs')
-
-  log.debug('Writting file')
-  await fs.writeFile('logs/data.txt', 'Hi')
-
-  log.debug('Reading file')
-  let readValue = await fs.readFile('logs/data.txt')
-  log.debug(`Read: ${readValue.toString()}`)
-}
-
-run().then(() => {})
+run(process.argv.slice(2).join(' ')).then(() => {})
