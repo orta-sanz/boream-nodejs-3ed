@@ -1,13 +1,8 @@
 const logger = require('inc/logger')
-const Router = require('koa-router')
-
-const router = new Router({
-  prefix: '/pet'
-})
 
 class PetService {
   constructor() {
-    this.pets = {}
+    this.pets = []
   }
 
   async getAll() {

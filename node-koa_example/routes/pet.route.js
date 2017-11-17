@@ -38,11 +38,21 @@ class PetRouter {
   }
 }
 
+const checkExist = async (ctx, next) => {
+  logger.debug('Checking if pet exist with id', ctx.params.id)
+  const pet = await petService.getById(+ctx.params.id)
+  if(!pet) {
+    ctx.throw(404, 'Pet not found')
+    return
+  }
+  await next()
+}
+
 router.get('/', PetRouter.getAll)
-router.get('/:id', PetRouter.getById)
+router.get('/:id', checkExist, PetRouter.getById)
 router.post('/', PetRouter.create)
-router.put('/:id', PetRouter.updateComplete)
-router.patch('/:id', PetRouter.updatePartial)
-router.delete('/:id', PetRouter.delete)
+router.put('/:id', checkExist, PetRouter.updateComplete)
+router.patch('/:id', checkExist, PetRouter.updatePartial)
+router.delete('/:id', checkExist, PetRouter.delete)
 
 module.exports = router
