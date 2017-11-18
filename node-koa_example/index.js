@@ -4,6 +4,7 @@ const petRouter = require('routes/pet.router')
 const htmlRouter = require('routes/html.router')
 
 const hbs = require('koa-hbs')
+const mount = require('koa-mount')
 const koaBody = require('koa-body')
 const koaLogger = require('koa-logger')
 const koaValidate = require('koa-validate')
@@ -13,15 +14,13 @@ if(process.env.NODE_ENV !== 'prod') {
   app.use(koaLogger())
 }
 
-// Middleware
+// Middleware (View render engine)
 app.use(hbs.middleware({
   viewPath: `${__dirname}/views`
 }))
 
-// Middleware
-app.use(htmlRouter.routes())
-
-// Middleware
+// Middleware (Routes)
+app.use(mount('/api/v1', htmlRouter.routes()))
 app.use(petRouter.routes())
 
 // Middleware
