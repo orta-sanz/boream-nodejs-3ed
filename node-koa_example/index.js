@@ -9,6 +9,7 @@ const koaBody = require('koa-body')
 const koaLogger = require('koa-logger')
 const koaValidate = require('koa-validate')
 const koaSession = require('koa-generic-session')
+const StoreFile = require('koa-generic-session-file')
 
 const app = new koa()
 if(process.env.NODE_ENV !== 'prod') {
@@ -27,10 +28,14 @@ app.use(petRouter.routes())
 // Middleware (Body)
 app.use(koaBody())
 
-// Middleware set the session obj and the signed key
+// Middleware for sessions
+// app.keys is the signed key for all cookies
 app.keys = ['mysecret']
 app.use(koaSession({
-  key: 'jsessionid'
+  key: 'jsessionid',
+  store: new StoreFile({
+    sessionDirectory: `${__dirname}/sessions`
+  })
 }))
 
 // Middleware (Session)
