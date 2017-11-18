@@ -43,5 +43,8 @@ Container repos: https://hub.docker.com/
 - `use dbs_name` : If not found, Mongo will create it
 - `db.db_name.find()` : Find
 - `show collections` : Show all collectons
-- `db.db_name.insert({key:value})` : Insert item
-- `db.db_name.find().pretty()` : Show the results with nice format
+- `db.collection.insert({key:value})` : Insert item
+- `db.collection.find().pretty()` : Show the results with nice format
+- `db.pets.update({_id: ObjectId("5a1023c2631c8066a8e9c5ca")}, {name: 'pepe'})` : Find the item by the first param and **replace** it with the second obj - This will only update the *first* match
+- `db.pets.update({location:'SG'}, {$set: {name:'Juan'}})` : This will find all the matches and update the desired item
+- `db.pets.remove({condition})` : Remove the selected item

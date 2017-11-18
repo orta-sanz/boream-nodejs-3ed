@@ -7,9 +7,10 @@ const hbs = require('koa-hbs')
 const mount = require('koa-mount')
 const koaBody = require('koa-body')
 const koaLogger = require('koa-logger')
+const koaConvert = require('koa-convert')
 const koaValidate = require('koa-validate')
-const koaSession = require('koa-generic-session')
-const StoreFile = require('koa-generic-session-file')
+const koaSession = require('koa-session-store')
+const StoreMongo = require('koa-session-mongo')
 
 const app = new koa()
 if(process.env.NODE_ENV !== 'prod') {
@@ -33,8 +34,8 @@ app.use(koaBody())
 app.keys = ['mysecret']
 app.use(koaSession({
   key: 'jsessionid',
-  store: new StoreFile({
-    sessionDirectory: `${__dirname}/sessions`
+  store: StoreMongo.create({
+    url: 'mongodb://localhost:27017/pets_db'
   })
 }))
 
