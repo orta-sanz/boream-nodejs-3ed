@@ -34,4 +34,4 @@ class PetValidator {
   }
 }
 
-module.exports = new PetValidator()
+module.exports = PetValidator
