@@ -13,7 +13,9 @@ class HTMLRouter {
   static async pets(ctx) {
     logger.info('Generating pets page')
     const pets = await petService.getAll()
-    await ctx.render('pets', { pets: pets })
+    await ctx.render('pets', {
+      title: 'Prueba'
+    })
   }
 }
 

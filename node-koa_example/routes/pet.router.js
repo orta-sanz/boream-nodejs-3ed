@@ -52,8 +52,8 @@ const checkExist = async (ctx, next) => {
 
 router.get('/', PetRouter.getAll)
 router.get('/:id', checkExist, PetRouter.getById)
-router.post('/', petValidator.createOrUpdateComplete, PetRouter.create)
-router.put('/:id', petValidator.createOrUpdateComplete, checkExist, PetRouter.updateComplete)
+router.post('/', PetRouter.create)
+router.put('/:id', checkExist, PetRouter.updateComplete)
 router.patch('/:id', petValidator.updatePartial, checkExist, PetRouter.updatePartial)
 router.delete('/:id', checkExist, PetRouter.delete)
 

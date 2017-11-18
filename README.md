@@ -23,3 +23,4 @@ Run the script with NODE_PATH as the project folder with bunyan
 - **koa-body** : A full-featured koa body parser middleware
 - **koa-logger** : Better error/info messages via console
 - **koa-validate** : Validator
+- **koa-generic-session** : Session service
