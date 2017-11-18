@@ -1,6 +1,7 @@
 const logger = require('inc/logger')
 const Router = require('koa-router')
 const petService = require('services/pet.service')
+const petValidator = require('validators/pet.validator')
 
 const router = new Router({
   prefix: '/pet'
@@ -50,7 +51,7 @@ const checkExist = async (ctx, next) => {
 
 router.get('/', PetRouter.getAll)
 router.get('/:id', checkExist, PetRouter.getById)
-router.post('/', PetRouter.create)
+router.post('/', petValidator.createOrUpdateComplete, PetRouter.create)
 router.put('/:id', checkExist, PetRouter.updateComplete)
 router.patch('/:id', checkExist, PetRouter.updatePartial)
 router.delete('/:id', checkExist, PetRouter.delete)

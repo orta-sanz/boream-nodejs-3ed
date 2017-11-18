@@ -3,6 +3,8 @@ const koaLogger = require('koa-logger')
 const logger = require('inc/logger')
 const petRouter = require('routes/pet.route')
 const koaBody = require('koa-body')
+const views = require('koa-views')
+const koaValidate = require('koa-validate')
 
 const pets= [
   {
@@ -32,6 +34,16 @@ if(process.env.NODE_ENV !== 'prod') {
 app.use(koaBody())
 
 // Middleware #2
+koaValidate(app)
+
+// Middleware #3
+app.use(views(`${__dirname}/views`, {
+  map: {
+    ejs: 'ejs'
+  }
+}))
+
+// Middleware #4
 app.use(async (ctx, next) => {
   const initTime = Date.now()
 
@@ -42,7 +54,7 @@ app.use(async (ctx, next) => {
   ctx.set('x-response-time', `${time}ms`)
 })
 
-// MIddlewae #3
+// MIddlewae #5
 // Este middleware es un router
 app.use(petRouter.routes())
 
