@@ -1,4 +1,7 @@
 const logger = require('inc/logger')
+const PetModel = require('models/pet.model')
+
+const ObjectId = require('mongoose').Types.ObjectId
 
 class PetService {
   constructor() {
@@ -6,11 +9,11 @@ class PetService {
   }
 
   async getAll() {
-    return this.pets
+    return await PetModel.find()
   }
 
   async getById(id) {
-    return this.pets.find(pet => pet.id === id)
+    return await PetModel.findOne({ id: ObjectId(id) })
   }
 
   async create(data) {
