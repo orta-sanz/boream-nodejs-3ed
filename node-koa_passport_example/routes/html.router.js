@@ -28,8 +28,15 @@ async function isAdmin(ctx, next) {
     ctx.throw(403, 'Not authorized');
 }
 
+async function isAuthenticated(ctx, next) {
+  if(ctx.isUnauthenticated()) {
+    ctx.redirect('/auth/login')
+    return
+  }
+  await next()
+}
+
 router.get('/', HTMLRouter.home);
-router.get('/pet', passport.authenticate('basic'), isAdmin, HTMLRouter.pets);
+router.get('/pet', isAuthenticated, isAdmin, HTMLRouter.pets);
 
 module.exports = router;
-

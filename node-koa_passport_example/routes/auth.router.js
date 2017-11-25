@@ -2,6 +2,7 @@ const logger = require('logger')
 const Router = require('koa-router')
 const crypto = require('crypto')
 
+const passport = require('koa-passport')
 const UserModel = require('models/user.model')
 
 const router = new Router({
@@ -29,9 +30,23 @@ class AuthRouter {
   static async showLogin(ctx) {
     await ctx.render('login')
   }
+
+  static async success(ctx) {
+    ctx.redirect('/pet')
+  }
+
+  static async fail(ctx) {
+    ctx.body = 'User not valid'
+  }
 }
 
 router.post('/sign-up', AuthRouter.signUp)
 router.get('/login', AuthRouter.showLogin)
+router.post('/login', passport.authenticate('local', {
+  successRedirect: '/auth/success',
+  failureRedirect: '/auth/fail'
+}))
+router.get('/fail', AuthRouter.fail)
+router.get('/success', AuthRouter.success)
 
 module.exports = router

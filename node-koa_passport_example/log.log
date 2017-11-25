@@ -796,3 +796,58 @@
 {"name":"Koa-API","hostname":"Nostromo","pid":11332,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:20:57.148Z","v":0}
 {"name":"Koa-API","hostname":"Nostromo","pid":11332,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:20:57.164Z","v":0}
 {"name":"Koa-API","hostname":"Nostromo","pid":11332,"level":20,"msg":"Session { count: 4 }","time":"2017-11-25T10:20:58.836Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11332,"level":20,"msg":"Session { count: 5 }","time":"2017-11-25T10:21:38.878Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11332,"level":20,"msg":"Session {}","time":"2017-11-25T10:21:41.614Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11570,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:23:52.303Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11570,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:23:52.321Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11586,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:24:20.584Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11586,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:24:20.601Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11833,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:27:05.331Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11833,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:27:05.349Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11906,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:28:23.581Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11906,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:28:23.598Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11906,"level":20,"msg":"Session { count: 6 }","time":"2017-11-25T10:29:14.379Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11906,"level":20,"msg":"Session { count: 7 }","time":"2017-11-25T10:29:14.407Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11906,"level":20,"msg":"Session { count: 8 }","time":"2017-11-25T10:29:16.606Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11995,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:29:25.204Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11995,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:29:25.220Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11995,"level":20,"msg":"Session { count: 9 }","time":"2017-11-25T10:29:26.803Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11995,"level":20,"msg":"Session { count: 10 }","time":"2017-11-25T10:29:26.829Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11995,"level":20,"msg":"Session { count: 11 }","time":"2017-11-25T10:29:28.520Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11995,"level":20,"msg":"Session { count: 12 }","time":"2017-11-25T10:29:29.631Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11995,"level":20,"msg":"Session { count: 13 }","time":"2017-11-25T10:29:29.640Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":11995,"level":20,"msg":"Session { count: 14 }","time":"2017-11-25T10:29:30.603Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12052,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:31:10.948Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12052,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:31:10.965Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12067,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:31:17.880Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12067,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:31:17.898Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12067,"level":20,"msg":"Session { count: 15 }","time":"2017-11-25T10:32:06.627Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12067,"level":20,"msg":"Session { count: 16 }","time":"2017-11-25T10:32:06.655Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12067,"level":20,"msg":"Session { count: 17 }","time":"2017-11-25T10:32:08.192Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:33:42.661Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:33:42.677Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 18 }","time":"2017-11-25T10:34:05.334Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 19 }","time":"2017-11-25T10:34:05.364Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 20 }","time":"2017-11-25T10:34:09.944Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 6 }","time":"2017-11-25T10:34:13.480Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":30,"msg":"SIgnup user with data { email: 'ale@ae.com', password: 'admin', name: 'al2' }","time":"2017-11-25T10:34:13.481Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 21 }","time":"2017-11-25T10:34:25.497Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 22 }","time":"2017-11-25T10:34:25.507Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 23 }","time":"2017-11-25T10:34:28.185Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 24 }","time":"2017-11-25T10:35:20.553Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 25 }","time":"2017-11-25T10:35:23.008Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 26 }","time":"2017-11-25T10:35:23.017Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 27 }","time":"2017-11-25T10:35:25.017Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 28 }","time":"2017-11-25T10:35:30.916Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 29 }","time":"2017-11-25T10:35:30.927Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 30 }","time":"2017-11-25T10:41:51.733Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 31 }","time":"2017-11-25T10:41:59.729Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 32 }","time":"2017-11-25T12:38:17.562Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 33 }","time":"2017-11-25T12:38:17.818Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 34 }","time":"2017-11-25T12:38:18.829Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 35 }","time":"2017-11-25T12:38:18.992Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 36 }","time":"2017-11-25T12:38:28.500Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 37 }","time":"2017-11-25T12:38:28.783Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 38 }","time":"2017-11-25T12:39:50.924Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 39 }","time":"2017-11-25T12:39:51.180Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":12276,"level":20,"msg":"Session { count: 40 }","time":"2017-11-25T12:39:59.437Z","v":0}
