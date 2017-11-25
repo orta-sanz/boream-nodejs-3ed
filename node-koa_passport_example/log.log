@@ -1,0 +1,774 @@
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":88550,"level":30,"msg":"API listening in port 3000","time":"2017-11-11T13:04:43.008Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":90738,"level":30,"msg":"API listening in port 3000","time":"2017-11-11T19:10:43.278Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":10348,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:19:13.782Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":10392,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:23:25.537Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":10405,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:23:43.219Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12123,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:39:29.652Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12165,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:42:38.075Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12168,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:43:00.984Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12180,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:43:26.710Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12183,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:43:36.638Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12188,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:43:57.735Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12191,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:44:03.256Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12265,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:48:02.363Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12292,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:48:48.461Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12297,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:49:24.413Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12322,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:51:04.611Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12395,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:57:11.894Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12410,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T16:57:54.414Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12440,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:01:22.586Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12461,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:03:23.225Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12476,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:03:55.621Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12479,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:04:07.427Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12510,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:06:34.730Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12522,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:07:50.833Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12543,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:09:50.382Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12547,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:10:14.163Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12592,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:13:41.115Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12597,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:13:57.152Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12600,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:14:10.790Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12767,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:28:43.087Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12879,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:32:46.447Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12912,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:34:41.860Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12985,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:41:51.466Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":12989,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:42:25.290Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13002,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:42:42.490Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13005,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:42:59.664Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13019,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:44:20.244Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13097,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:50:48.286Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13104,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:51:19.867Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13116,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:51:27.717Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13119,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:51:41.302Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13122,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:51:42.987Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13125,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:52:13.969Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13137,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:52:48.372Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13149,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:53:31.985Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13154,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:54:05.143Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13166,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:54:28.841Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13178,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:55:53.660Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13190,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:56:35.074Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13193,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:56:37.440Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13198,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:57:04.718Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13201,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:57:11.560Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13204,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:57:21.171Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13208,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:57:25.515Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13231,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:58:20.086Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13243,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T17:58:35.131Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13286,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:02:33.219Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13300,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:03:33.293Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13303,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:03:39.468Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13318,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:05:24.404Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13362,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:09:15.408Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13374,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:10:12.748Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13377,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:10:14.099Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13389,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:11:17.387Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13401,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:11:30.174Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13404,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:12:02.252Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13416,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:12:47.169Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13420,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:13:06.488Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13433,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:13:30.511Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13448,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:14:40.612Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13555,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:24:02.430Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13558,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:24:09.312Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13570,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:25:01.188Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13582,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:25:41.931Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13585,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:26:25.312Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13598,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:26:38.363Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13601,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:27:02.402Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13614,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:27:43.103Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13617,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:27:59.842Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13620,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:28:20.202Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13632,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:29:23.543Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13632,"level":30,"msg":"Get all pets","time":"2017-11-17T18:30:31.316Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13632,"level":30,"msg":"Create user with body  { name: 'juanito',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  image: '',\n  vaccinate: true }","time":"2017-11-17T18:30:40.753Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13632,"level":30,"msg":"Get all pets","time":"2017-11-17T18:30:48.344Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13632,"level":30,"msg":"Get by id 0","time":"2017-11-17T18:30:57.793Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13632,"level":30,"msg":"Update complete pet with id 0 with body:  { name: 'pepito',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  image: '',\n  vaccinate: true }","time":"2017-11-17T18:31:15.612Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13668,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:31:31.520Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13668,"level":30,"msg":"Create user with body  { name: 'pepito',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  image: '',\n  vaccinate: true }","time":"2017-11-17T18:31:43.775Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13668,"level":30,"msg":"Update complete pet with id 0 with body:  { name: 'juanito',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  image: '',\n  vaccinate: true }","time":"2017-11-17T18:31:53.707Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13668,"level":30,"msg":"Get all pets","time":"2017-11-17T18:31:59.034Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13671,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:32:20.433Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13671,"level":30,"msg":"Create user with body  { name: 'juanito',\n  birthdate: '2015-01-01',\n  city: 'SG',\n  image: '',\n  vaccinate: true }","time":"2017-11-17T18:32:27.830Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13671,"level":30,"msg":"Update partial pet with id 0 with body:  { birthdate: '2020-01-01' }","time":"2017-11-17T18:32:46.083Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13671,"level":30,"msg":"Get all pets","time":"2017-11-17T18:32:51.707Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13671,"level":30,"msg":"Delete pet with id 0","time":"2017-11-17T18:32:58.541Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13671,"level":30,"msg":"Get all pets","time":"2017-11-17T18:33:02.760Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13671,"level":30,"msg":"Get by id 0","time":"2017-11-17T18:33:19.198Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13917,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:54:37.576Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13986,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T18:59:21.532Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14022,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:01:58.942Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14038,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:02:43.674Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14050,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:04:01.216Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14072,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:05:51.428Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14075,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:06:17.090Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14075,"level":20,"msg":"Checking if exist pet with id 0","time":"2017-11-17T19:07:02.306Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14087,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:07:13.696Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14090,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:07:19.023Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14090,"level":20,"msg":"Checking if exist pet with id 0","time":"2017-11-17T19:07:24.606Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14220,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:19:22.449Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14233,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:20:04.560Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14245,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:20:37.847Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14269,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:22:27.035Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14273,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:23:13.458Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14330,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:27:59.249Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14357,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:30:00.983Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14360,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:30:04.770Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14372,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:30:36.949Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14376,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:31:19.065Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14391,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:32:01.950Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14394,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:32:26.574Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14407,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:32:35.659Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14410,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:32:38.709Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14413,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:32:51.120Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14416,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:33:16.341Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14429,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:33:38.698Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14442,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:34:37.471Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14456,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:36:06.667Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14467,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:36:37.802Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14470,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:36:42.286Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14474,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:37:02.951Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14488,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:38:04.685Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14502,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:38:27.415Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14505,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:38:28.540Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14508,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:38:59.328Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14519,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:39:44.487Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14522,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:39:47.037Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14522,"level":30,"msg":"Create user with body  { name: 'ma',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  vaccinate: true }","time":"2017-11-17T19:40:23.102Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14536,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:41:14.824Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14711,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:55:33.826Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14735,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:56:58.377Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14761,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:59:07.514Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14764,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T19:59:20.108Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14785,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T20:00:45.990Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14788,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T20:00:48.722Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14791,"level":30,"msg":"API listening in port 3000","time":"2017-11-17T20:00:55.110Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16300,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:13:17.297Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16314,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:14:32.245Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16326,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:14:51.690Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16330,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:15:12.182Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16342,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:16:09.106Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16345,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:16:13.574Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16348,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:16:30.203Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16351,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:16:33.280Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16363,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:16:59.757Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16377,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:18:40.391Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16389,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:19:18.773Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16402,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:20:34.506Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16405,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:20:41.852Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16408,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:20:42.418Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16440,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:23:41.671Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16508,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:27:51.717Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16515,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:28:11.646Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16518,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:28:22.057Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16521,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:28:47.123Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16521,"level":30,"msg":"Generating home page","time":"2017-11-18T09:29:19.435Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16572,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:32:13.399Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16584,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:33:24.678Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16644,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:38:38.595Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16644,"level":30,"msg":"Get all pets","time":"2017-11-18T09:46:54.041Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16770,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:50:39.406Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16813,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:54:03.021Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16818,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:54:20.715Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16841,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T09:55:57.740Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16841,"level":30,"msg":"Create user with body  { name: 'pepe',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  vaccinate: true }","time":"2017-11-18T09:56:19.549Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16841,"level":30,"msg":"Generating pets page","time":"2017-11-18T09:57:01.605Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18667,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:27:39.782Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18667,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:27:46.003Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18667,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:27:46.004Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18690,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:28:50.336Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18693,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:28:53.162Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:29:18.855Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:29:21.370Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:29:21.371Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 1 }","time":"2017-11-18T10:29:30.868Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:29:30.868Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 2 }","time":"2017-11-18T10:29:39.933Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:29:39.933Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:32:50.061Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:32:50.061Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 1 }","time":"2017-11-18T10:33:21.138Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:33:21.138Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 2 }","time":"2017-11-18T10:33:24.795Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:33:24.795Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 3 }","time":"2017-11-18T10:33:26.843Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18696,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:33:26.843Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18790,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:41:25.473Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18793,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:41:30.273Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18796,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:41:38.779Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18806,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:41:56.231Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18806,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:42:01.603Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18806,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:42:01.604Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18806,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 1 }","time":"2017-11-18T10:44:56.136Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18806,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:44:56.136Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18806,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 2 }","time":"2017-11-18T10:45:50.540Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18806,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:45:50.540Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18879,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:49:39.605Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18890,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:50:32.871Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18893,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:50:46.536Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18904,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:51:21.212Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18908,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:51:32.865Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18908,"level":20,"msg":"Session { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:52:37.143Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18908,"level":30,"msg":"Generating pets page","time":"2017-11-18T10:52:37.144Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":18918,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T10:52:38.440Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19028,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T11:03:08.345Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19031,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T11:03:12.950Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19042,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T11:04:20.604Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19953,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:32:56.007Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19953,"level":20,"msg":"Session GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:33:03.673Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19953,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:33:03.675Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19953,"level":20,"msg":"Session GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:33:13.805Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19953,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:33:13.805Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19989,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:35:53.520Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19989,"level":20,"msg":"Session GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:36:03.048Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19989,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:36:03.050Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20028,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:39:29.040Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20038,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:39:54.252Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20041,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:40:14.026Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20051,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:40:58.241Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20051,"level":20,"msg":"Session GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:41:01.096Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20051,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:41:01.097Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20086,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:43:57.895Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20093,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:44:01.685Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20096,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:44:04.150Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20096,"level":20,"msg":"Session GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:44:06.501Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20096,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:44:06.503Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20121,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:45:15.760Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20135,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:45:51.999Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20135,"level":20,"msg":"Session undefined","time":"2017-11-18T12:45:56.411Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20135,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:45:56.413Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20159,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:47:37.777Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20169,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:47:54.792Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20176,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:47:56.693Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20176,"level":20,"msg":"Session GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:48:00.403Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20176,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:48:00.405Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20280,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:50:01.016Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20280,"level":20,"msg":"Session GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:50:02.418Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20280,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:50:02.420Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":20285,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:50:45.788Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21039,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:56:09.679Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21039,"level":20,"msg":"Session {}","time":"2017-11-18T12:56:17.289Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21039,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:56:17.291Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21039,"level":20,"msg":"Session { count: 1 }","time":"2017-11-18T12:56:23.144Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21039,"level":30,"msg":"Generating pets page","time":"2017-11-18T12:56:23.144Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21061,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T12:57:31.733Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21061,"level":20,"msg":"Session {}","time":"2017-11-18T13:01:49.971Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21061,"level":30,"msg":"Generating pets page","time":"2017-11-18T13:01:49.972Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21134,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T13:02:12.083Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21137,"level":30,"msg":"API listening in port 3000","time":"2017-11-18T13:02:13.518Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21137,"level":20,"msg":"Session {}","time":"2017-11-18T13:02:15.131Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21137,"level":30,"msg":"Generating pets page","time":"2017-11-18T13:02:15.133Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21137,"level":20,"msg":"Session {}","time":"2017-11-18T13:04:43.853Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21137,"level":30,"msg":"Generating pets page","time":"2017-11-18T13:04:43.854Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21137,"level":20,"msg":"Session {}","time":"2017-11-18T13:04:43.971Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21137,"level":20,"msg":"Session {}","time":"2017-11-18T13:04:44.321Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":21137,"level":20,"msg":"Session {}","time":"2017-11-18T13:04:44.328Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":27653,"level":30,"msg":"API listening in port 3000","time":"2017-11-19T13:57:31.380Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":27671,"level":30,"msg":"API listening in port 3000","time":"2017-11-19T13:58:29.040Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":27684,"level":30,"msg":"API listening in port 3000","time":"2017-11-19T13:58:39.516Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":27687,"level":30,"msg":"API listening in port 3000","time":"2017-11-19T13:59:01.922Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13950,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:14:42.424Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13950,"level":20,"msg":"Session {}","time":"2017-11-24T16:15:32.003Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13950,"level":30,"msg":"Generating pets page","time":"2017-11-24T16:15:32.006Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":13950,"level":20,"msg":"Session { count: 1 }","time":"2017-11-24T16:15:32.193Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14124,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:17:31.368Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14136,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:17:54.465Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14139,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:17:55.515Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14157,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:19:02.239Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14160,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:19:02.987Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14196,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:21:45.835Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14199,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:21:47.777Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14207,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:22:05.615Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14210,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:22:07.637Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14244,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:25:03.597Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14247,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:25:04.510Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14262,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:25:34.037Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14268,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:25:35.379Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14271,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:25:37.634Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14286,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:26:37.169Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14289,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:26:38.316Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14300,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:27:01.164Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14304,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:27:02.088Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14346,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:29:14.143Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14346,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:29:14.155Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14349,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:29:15.251Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14349,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:29:15.268Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14353,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:29:25.166Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14353,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:29:25.183Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14356,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:29:26.614Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14356,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:29:26.627Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14363,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:30:15.409Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14363,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:30:15.435Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14367,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:30:16.638Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14367,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:30:16.659Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14564,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:33:53.854Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14564,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:33:53.864Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14567,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:33:54.936Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14567,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:33:54.947Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14570,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:34:06.455Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14570,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:34:06.466Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14573,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:34:07.835Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14573,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:34:07.846Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14598,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:35:51.827Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14598,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:35:51.842Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14601,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:35:52.963Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14601,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:35:52.977Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14618,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:36:54.659Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14618,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:36:54.670Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14621,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:36:55.529Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14621,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:36:55.540Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14645,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:38:58.926Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14645,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:38:58.936Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14648,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:39:00.107Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14648,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:39:00.118Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14693,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:42:59.289Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14693,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:42:59.302Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14696,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:43:00.420Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14696,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:43:00.431Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14732,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:45:40.625Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14732,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:45:40.641Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14736,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:45:41.720Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14736,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:45:41.732Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14740,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:45:43.851Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14740,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:45:43.862Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14743,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:45:45.027Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14743,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:45:45.038Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14749,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:46:11.579Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14749,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:46:11.590Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14752,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:46:13.313Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14752,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:46:13.324Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14768,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:46:53.517Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14768,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:46:53.528Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14771,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:46:54.166Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14771,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:46:54.177Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14798,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:49:02.673Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14798,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:49:02.684Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14801,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:49:03.460Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14801,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:49:03.474Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14804,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:49:06.117Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14804,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:49:06.129Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14807,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:49:07.885Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14807,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:49:07.897Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:49:09.049Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T16:49:09.060Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":20,"msg":"Session {}","time":"2017-11-24T16:50:08.421Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":30,"msg":"Get all pets","time":"2017-11-24T16:50:08.424Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":20,"msg":"Session { count: 1 }","time":"2017-11-24T16:51:14.491Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":30,"msg":"Create user with body  { name: 'java',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  vaccinate: true }","time":"2017-11-24T16:51:14.494Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":20,"msg":"Session { count: 2 }","time":"2017-11-24T17:07:34.989Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":30,"msg":"Generating pets page","time":"2017-11-24T17:07:34.990Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":20,"msg":"Session { count: 3 }","time":"2017-11-24T17:07:39.923Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":30,"msg":"Generating home page","time":"2017-11-24T17:07:39.924Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":20,"msg":"Session {}","time":"2017-11-24T17:07:45.561Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":30,"msg":"Generating home page","time":"2017-11-24T17:07:45.562Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":20,"msg":"Session { count: 1 }","time":"2017-11-24T17:07:52.906Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":14810,"level":30,"msg":"Generating home page","time":"2017-11-24T17:07:52.907Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15131,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:13:09.269Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15131,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:13:09.280Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15134,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:13:10.103Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15134,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:13:10.114Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15134,"level":20,"msg":"Session { count: 2 }","time":"2017-11-24T17:13:12.816Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15134,"level":30,"msg":"Create user with body  { name: 'java',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  vaccinate: true }","time":"2017-11-24T17:13:12.820Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15152,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:13:20.439Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15152,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:13:20.450Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15155,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:13:22.596Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15155,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:13:22.608Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15155,"level":20,"msg":"Session { count: 3 }","time":"2017-11-24T17:13:23.870Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15155,"level":30,"msg":"Create user with body  { name: 'java',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  vaccinate: true }","time":"2017-11-24T17:13:23.875Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15161,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:13:34.071Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15161,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:13:34.083Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15164,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:13:35.202Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15164,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:13:35.214Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15170,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:13:40.394Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15170,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:13:40.407Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15173,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:13:42.268Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15173,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:13:42.281Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15173,"level":20,"msg":"Session { count: 4 }","time":"2017-11-24T17:13:48.959Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15173,"level":30,"msg":"Create user with body  { name: 'java',\n  birthdate: '2017-01-01',\n  city: 'SG',\n  vaccinate: true }","time":"2017-11-24T17:13:48.963Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15173,"level":20,"msg":"Session { count: 5 }","time":"2017-11-24T17:13:55.074Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15173,"level":30,"msg":"Get all pets","time":"2017-11-24T17:13:55.074Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15191,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:14:07.426Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15191,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:14:07.437Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15194,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:14:08.757Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15194,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:14:08.768Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15194,"level":20,"msg":"Session { count: 6 }","time":"2017-11-24T17:14:09.241Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15194,"level":30,"msg":"Get all pets","time":"2017-11-24T17:14:09.243Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15203,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:14:17.824Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15203,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:14:17.837Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15206,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:14:19.778Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15206,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:14:19.789Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15206,"level":20,"msg":"Session { count: 7 }","time":"2017-11-24T17:14:20.173Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15206,"level":30,"msg":"Get all pets","time":"2017-11-24T17:14:20.175Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15211,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:14:27.416Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15211,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:14:27.427Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15214,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:14:28.697Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15214,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:14:28.708Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15214,"level":20,"msg":"Session { count: 8 }","time":"2017-11-24T17:14:28.976Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15214,"level":30,"msg":"Get all pets","time":"2017-11-24T17:14:28.978Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15235,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:15:06.830Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15235,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:15:06.842Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15238,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:15:08.096Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15238,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:15:08.109Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15238,"level":20,"msg":"Session { count: 9 }","time":"2017-11-24T17:15:08.892Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15238,"level":30,"msg":"Get all pets","time":"2017-11-24T17:15:08.894Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15238,"level":20,"msg":"Session { count: 9 }","time":"2017-11-24T17:15:09.790Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15238,"level":30,"msg":"Get all pets","time":"2017-11-24T17:15:09.791Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15248,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:15:32.611Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15248,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:15:32.623Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15251,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:15:33.889Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15251,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:15:33.900Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15251,"level":20,"msg":"Session { count: 9 }","time":"2017-11-24T17:15:35.455Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15251,"level":30,"msg":"Get all pets","time":"2017-11-24T17:15:35.457Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15257,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:15:49.782Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15257,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:15:49.792Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15260,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:15:50.993Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15260,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:15:51.008Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15260,"level":20,"msg":"Session { count: 10 }","time":"2017-11-24T17:15:53.530Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15260,"level":30,"msg":"Get all pets","time":"2017-11-24T17:15:53.532Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15275,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:16:33.020Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15275,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:16:33.031Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15278,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:16:34.221Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15278,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:16:34.233Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15293,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:17:12.618Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15293,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:17:12.629Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15296,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:17:13.812Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15296,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:17:13.823Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15302,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:17:36.409Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15302,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:17:36.420Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15305,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:17:37.954Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15305,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:17:37.966Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15329,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:18:41.607Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15329,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:18:41.619Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15332,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:18:42.450Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15332,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:18:42.461Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15332,"level":20,"msg":"Session { count: 11 }","time":"2017-11-24T17:18:44.858Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15332,"level":30,"msg":"Get all pets","time":"2017-11-24T17:18:44.860Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15353,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:19:16.833Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15353,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:19:16.847Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15356,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:19:17.977Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15356,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:19:17.989Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15360,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:19:28.049Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15360,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:19:28.061Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15363,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:19:29.503Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15363,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:19:29.515Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15363,"level":20,"msg":"Session { count: 11 }","time":"2017-11-24T17:19:31.554Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15363,"level":30,"msg":"Get all pets","time":"2017-11-24T17:19:31.556Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15363,"level":20,"msg":"Session { count: 12 }","time":"2017-11-24T17:19:40.912Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15363,"level":30,"msg":"Get all pets","time":"2017-11-24T17:19:40.913Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15363,"level":20,"msg":"Session { count: 13 }","time":"2017-11-24T17:19:48.159Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15363,"level":30,"msg":"Get all pets","time":"2017-11-24T17:19:48.159Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15389,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:21:03.586Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15389,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:21:03.601Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15392,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:21:04.797Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15392,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:21:04.808Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15392,"level":20,"msg":"Session { count: 14 }","time":"2017-11-24T17:21:12.514Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15392,"level":30,"msg":"Get all pets","time":"2017-11-24T17:21:12.516Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15392,"level":20,"msg":"Session { count: 15 }","time":"2017-11-24T17:21:43.621Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15392,"level":30,"msg":"Get all pets","time":"2017-11-24T17:21:43.622Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15409,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:22:17.692Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15409,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:22:17.707Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15412,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:22:18.499Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15412,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:22:18.510Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15429,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:23:40.523Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15429,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:23:40.534Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15432,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:23:41.469Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15432,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:23:41.480Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15439,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:24:01.151Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15439,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:24:01.164Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15454,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:24:03.315Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15454,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:24:03.326Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15457,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:24:04.548Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15457,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:24:04.559Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15475,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:25:41.615Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15475,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:25:41.626Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15478,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:25:42.762Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15478,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:25:42.773Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15503,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:28:00.776Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15503,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:28:00.787Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15506,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:28:01.542Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15506,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:28:01.553Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15506,"level":20,"msg":"Session { count: 15 }","time":"2017-11-24T17:28:09.752Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15506,"level":30,"msg":"Get all pets","time":"2017-11-24T17:28:09.753Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15506,"level":20,"msg":"Session { count: 15 }","time":"2017-11-24T17:28:22.813Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15506,"level":30,"msg":"Get all pets","time":"2017-11-24T17:28:22.814Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15528,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:28:55.039Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15528,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:28:55.055Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15531,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:28:55.863Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15531,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:28:55.874Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15531,"level":20,"msg":"Session { count: 16 }","time":"2017-11-24T17:28:58.009Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15531,"level":30,"msg":"Get all pets","time":"2017-11-24T17:28:58.010Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15548,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:29:30.241Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15548,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:29:30.252Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15551,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:29:31.463Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15551,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:29:31.474Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15551,"level":20,"msg":"Session { count: 17 }","time":"2017-11-24T17:29:38.915Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15551,"level":30,"msg":"Get all pets","time":"2017-11-24T17:29:38.917Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15551,"level":20,"msg":"Session { count: 18 }","time":"2017-11-24T17:29:44.747Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15551,"level":30,"msg":"Get all pets","time":"2017-11-24T17:29:44.748Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15551,"level":20,"msg":"Session { count: 19 }","time":"2017-11-24T17:31:08.324Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15551,"level":30,"msg":"Get all pets","time":"2017-11-24T17:31:08.325Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15604,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:32:11.766Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15604,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:32:11.778Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15607,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:32:12.762Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15607,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:32:12.774Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15655,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:36:21.316Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15655,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:36:21.327Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15658,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:36:22.095Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15658,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:36:22.106Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15661,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:36:27.760Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15661,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:36:27.773Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15664,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:36:28.897Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15664,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:36:28.907Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15681,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:37:31.229Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15681,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:37:31.242Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15684,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:37:32.260Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15684,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:37:32.271Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15800,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:47:27.414Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15800,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:47:27.426Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15803,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:47:28.372Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15803,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:47:28.383Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15827,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:50:15.364Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15827,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:50:15.375Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15830,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:50:16.570Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15830,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:50:16.581Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15893,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:56:09.211Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15893,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:56:09.224Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15896,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:56:09.886Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15896,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:56:09.898Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15896,"level":20,"msg":"Session { count: 20 }","time":"2017-11-24T17:56:17.465Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15896,"level":30,"msg":"Get all pets","time":"2017-11-24T17:56:17.467Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15896,"level":20,"msg":"Session { count: 21 }","time":"2017-11-24T17:56:36.102Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15896,"level":20,"msg":"Checking if exist pet with id 5a184e022a773139da368f04","time":"2017-11-24T17:56:36.103Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15923,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:57:28.896Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15923,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:57:28.914Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15926,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:57:29.712Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15926,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:57:29.723Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15929,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:57:34.455Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15929,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:57:34.466Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15932,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:57:35.792Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15932,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:57:35.805Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15932,"level":20,"msg":"Session { count: 21 }","time":"2017-11-24T17:57:44.585Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15932,"level":20,"msg":"Checking if exist pet with id 5a184e022a773139da368f04","time":"2017-11-24T17:57:44.587Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15942,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:57:57.054Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15942,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:57:57.066Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15945,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:57:58.355Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15945,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:57:58.368Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15945,"level":20,"msg":"Session { count: 21 }","time":"2017-11-24T17:57:58.483Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15945,"level":20,"msg":"Checking if exist pet with id 5a184e022a773139da368f04","time":"2017-11-24T17:57:58.489Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15945,"level":30,"msg":"Delete pet with id 5a184e022a773139da368f04","time":"2017-11-24T17:57:58.509Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15945,"level":20,"msg":"Session { count: 22 }","time":"2017-11-24T17:58:05.653Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15945,"level":30,"msg":"Get all pets","time":"2017-11-24T17:58:05.653Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15963,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:59:10.338Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15963,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:59:10.348Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15966,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:59:11.162Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15966,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:59:11.173Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15966,"level":20,"msg":"Session { count: 23 }","time":"2017-11-24T17:59:17.128Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15966,"level":30,"msg":"Get all pets","time":"2017-11-24T17:59:17.130Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15979,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:59:29.667Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15979,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:59:29.678Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15984,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:59:31.056Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15984,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T17:59:31.067Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15984,"level":20,"msg":"Session { count: 24 }","time":"2017-11-24T17:59:31.336Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":15984,"level":30,"msg":"Get all pets","time":"2017-11-24T17:59:31.338Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16005,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T18:00:55.313Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16005,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T18:00:55.325Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16009,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T18:00:56.127Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16009,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T18:00:56.138Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16025,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T18:01:13.589Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16025,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T18:01:13.601Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16028,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T18:01:15.671Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16028,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T18:01:15.682Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16045,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T18:01:31.295Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16045,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T18:01:31.307Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T18:01:32.514Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T18:01:32.525Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":20,"msg":"Session { count: 25 }","time":"2017-11-24T18:01:48.112Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":30,"msg":"Get all pets","time":"2017-11-24T18:01:48.113Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":20,"msg":"Session { count: 26 }","time":"2017-11-24T18:01:54.390Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":30,"msg":"Get all pets","time":"2017-11-24T18:01:54.390Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":20,"msg":"Session { count: 27 }","time":"2017-11-24T18:03:43.122Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":30,"msg":"Get all pets","time":"2017-11-24T18:03:43.123Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":20,"msg":"Session { count: 28 }","time":"2017-11-24T18:03:52.974Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":16048,"level":30,"msg":"Get all pets","time":"2017-11-24T18:03:52.975Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17036,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:30:43.291Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17036,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:30:43.318Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17036,"level":20,"msg":"Session { count: 4 }","time":"2017-11-24T19:30:53.423Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17036,"level":30,"msg":"Generating pets page","time":"2017-11-24T19:30:53.425Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17036,"level":20,"msg":"Session { count: 5 }","time":"2017-11-24T19:31:17.557Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17036,"level":30,"msg":"Generating home page","time":"2017-11-24T19:31:17.557Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17036,"level":20,"msg":"Session { count: 6 }","time":"2017-11-24T19:31:20.659Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17036,"level":30,"msg":"Generating pets page","time":"2017-11-24T19:31:20.659Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17065,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:32:38.062Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17065,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:32:38.078Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17068,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:32:39.177Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17068,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:32:39.191Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17097,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:34:38.233Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17097,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:34:38.248Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17097,"level":20,"msg":"Session { count: 7 }","time":"2017-11-24T19:34:42.805Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17097,"level":20,"msg":"Session { count: 8 }","time":"2017-11-24T19:35:01.816Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17115,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:35:15.082Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17115,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:35:15.101Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17118,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:35:16.268Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17118,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:35:16.302Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17122,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:35:29.859Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17122,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:35:29.873Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17125,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:35:31.059Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17125,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:35:31.073Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17128,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:35:35.526Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17128,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:35:35.539Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17131,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:35:37.866Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17131,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:35:37.879Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17146,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:36:01.756Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17146,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:36:01.770Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17149,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:36:02.864Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17149,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:36:02.877Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17152,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:36:11.281Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17152,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:36:11.294Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17155,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:36:12.560Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17155,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:36:12.574Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17155,"level":20,"msg":"Session { count: 9 }","time":"2017-11-24T19:37:37.893Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17155,"level":20,"msg":"Doing authentication with admin and admin","time":"2017-11-24T19:37:37.900Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17179,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:38:23.405Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17179,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:38:23.418Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17182,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:38:24.537Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17182,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:38:24.550Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17229,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:42:21.950Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17229,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:42:21.965Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17233,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:42:22.787Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17233,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:42:22.799Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17236,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:42:32.502Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17236,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:42:32.516Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17239,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:42:33.717Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17239,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:42:33.730Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17260,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:43:15.507Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17260,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:43:15.522Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17263,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:43:17.961Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17263,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:43:17.986Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17263,"level":20,"msg":"Session { count: 9 }","time":"2017-11-24T19:43:22.058Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17263,"level":20,"msg":"Doing authentication with admin and admin","time":"2017-11-24T19:43:22.060Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17263,"level":30,"msg":"Generating pets page","time":"2017-11-24T19:43:22.061Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17263,"level":20,"msg":"Session { count: 10,\n  passport: { user: { name: 'Admin', role: 'ADMIN' } } }","time":"2017-11-24T19:43:26.822Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17263,"level":20,"msg":"Doing authentication with admin and admin","time":"2017-11-24T19:43:26.822Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17263,"level":30,"msg":"Generating pets page","time":"2017-11-24T19:43:26.823Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17279,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:44:20.530Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17279,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:44:20.543Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17282,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:44:21.647Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17282,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:44:21.660Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17285,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:44:33.755Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17285,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:44:33.767Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17288,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:44:35.061Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17288,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:44:35.074Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17304,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:45:18.879Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17304,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:45:18.892Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17307,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:45:19.980Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17307,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:45:19.994Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17310,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:45:20.880Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17310,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:45:20.893Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17313,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:45:22.049Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17313,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:45:22.063Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17328,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:46:34.066Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17328,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:46:34.084Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17331,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:46:35.149Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17331,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:46:35.163Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17346,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:47:23.802Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17346,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:47:23.816Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17349,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:47:24.910Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17349,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:47:24.924Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17369,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:48:30.202Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17369,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:48:30.217Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17373,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:48:30.984Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17373,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:48:30.997Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17376,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:48:34.777Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17376,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:48:34.791Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17379,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:48:35.950Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17379,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:48:35.964Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17391,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:48:50.080Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17391,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:48:50.094Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17394,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:48:51.291Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17394,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T19:48:51.304Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17505,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T20:00:02.834Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17505,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T20:00:02.850Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17508,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T20:00:03.643Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17508,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T20:00:03.660Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17511,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T20:00:04.932Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17511,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T20:00:04.947Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17514,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T20:00:06.463Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17514,"level":30,"msg":"API listening in port 3000","time":"2017-11-24T20:00:06.476Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17514,"level":20,"msg":"Session {}","time":"2017-11-24T20:00:13.230Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17514,"level":20,"msg":"Session { count: 1 }","time":"2017-11-24T20:00:15.706Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17514,"level":20,"msg":"Doing authentication with admin and admin","time":"2017-11-24T20:00:15.707Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17514,"level":30,"msg":"Generating pets page","time":"2017-11-24T20:00:15.709Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17514,"level":20,"msg":"Session { count: 2, passport: { user: 1 } }","time":"2017-11-24T20:00:47.409Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17514,"level":20,"msg":"Doing authentication with admin and admin","time":"2017-11-24T20:00:47.409Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":17514,"level":30,"msg":"Generating pets page","time":"2017-11-24T20:00:47.409Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19723,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:04:14.848Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19723,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:04:14.866Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19726,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:04:15.859Z","v":0}
+{"name":"Koa-API","hostname":"MacBook-Pro-de-Ra-2.local","pid":19726,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:04:15.872Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":6704,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:19:03.758Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":6704,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:19:03.779Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7448,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:24:30.817Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7448,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:24:30.832Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7490,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:25:33.310Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7490,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:25:33.325Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7576,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:27:02.573Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7576,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:27:02.589Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7624,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:28:02.559Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7624,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:28:02.575Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7757,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:28:36.060Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":7757,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:28:36.077Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8427,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:35:23.149Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8427,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:35:23.169Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8627,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:38:00.816Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8627,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:38:00.831Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8669,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:38:51.719Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8669,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:38:51.739Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8817,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:41:34.664Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8817,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:41:34.679Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8874,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:42:47.178Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8874,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:42:47.194Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8897,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:43:08.575Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8897,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:43:08.591Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8936,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:43:56.682Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8936,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:43:56.696Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8955,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:44:23.027Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":8955,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:44:23.042Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9023,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:46:10.160Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9023,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:46:10.177Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9071,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:47:31.311Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9071,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:47:31.327Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9106,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:48:03.206Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9106,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:48:03.221Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9142,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:48:51.402Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9142,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:48:51.417Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9165,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:49:17.776Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9181,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:49:36.972Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9181,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:49:36.987Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9213,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:50:10.983Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9226,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:50:14.120Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9239,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:50:17.879Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9239,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:50:17.894Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9305,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:51:58.827Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9305,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:51:58.841Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9464,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:54:06.381Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9464,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:54:06.396Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9464,"level":20,"msg":"Session {}","time":"2017-11-25T09:54:08.982Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9464,"level":30,"msg":"Generating home page","time":"2017-11-25T09:54:08.984Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9464,"level":20,"msg":"Session { count: 1 }","time":"2017-11-25T09:54:09.277Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9464,"level":20,"msg":"Session {}","time":"2017-11-25T09:54:16.730Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9464,"level":20,"msg":"Session { count: 1 }","time":"2017-11-25T09:54:56.321Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9566,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:55:54.247Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9566,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:55:54.262Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9566,"level":20,"msg":"Session { count: 2 }","time":"2017-11-25T09:55:58.853Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9566,"level":20,"msg":"Session { count: 3 }","time":"2017-11-25T09:56:08.913Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9566,"level":20,"msg":"Session { count: 2 }","time":"2017-11-25T09:56:26.109Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9657,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:56:54.020Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9657,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:56:54.034Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9657,"level":20,"msg":"Session { count: 4 }","time":"2017-11-25T09:56:56.513Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9657,"level":30,"msg":"SIgnup user with data { email: 'ale@ae.com', password: 'admin', name: 'ale' }","time":"2017-11-25T09:56:56.515Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9687,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:57:16.850Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9687,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T09:57:16.867Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9687,"level":20,"msg":"Session { count: 4 }","time":"2017-11-25T09:57:18.901Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9687,"level":30,"msg":"SIgnup user with data { email: 'ale@ae.com', password: 'admin', name: 'ale' }","time":"2017-11-25T09:57:18.903Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9687,"level":20,"msg":"Session { count: 5 }","time":"2017-11-25T09:57:22.944Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":9687,"level":30,"msg":"SIgnup user with data { email: 'ale@ae.com', password: 'admin', name: 'al2' }","time":"2017-11-25T09:57:22.945Z","v":0}

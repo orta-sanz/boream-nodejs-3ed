@@ -17,9 +17,9 @@ class PetService {
   }
 
   async create(data) {
-    data.id = Math.random()
-    this.pets.push(data)
-    return data
+    const pet = new PetModel(data)
+    await pet.save()
+    return pet
   }
 
   async updateComplete(id, data) {

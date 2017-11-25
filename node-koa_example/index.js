@@ -10,6 +10,7 @@ const koaLogger = require('koa-logger')
 const koaValidate = require('koa-validate')
 const koaSession = require('koa-session-store')
 const StoreMongo = require('koa-session-mongo')
+const passport = require('koa-passport')
 const mongoose = require('mongoose')
 
 mongoose.set('debug', true)
