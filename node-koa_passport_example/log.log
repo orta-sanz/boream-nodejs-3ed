@@ -772,3 +772,5 @@
 {"name":"Koa-API","hostname":"Nostromo","pid":9687,"level":30,"msg":"SIgnup user with data { email: 'ale@ae.com', password: 'admin', name: 'ale' }","time":"2017-11-25T09:57:18.903Z","v":0}
 {"name":"Koa-API","hostname":"Nostromo","pid":9687,"level":20,"msg":"Session { count: 5 }","time":"2017-11-25T09:57:22.944Z","v":0}
 {"name":"Koa-API","hostname":"Nostromo","pid":9687,"level":30,"msg":"SIgnup user with data { email: 'ale@ae.com', password: 'admin', name: 'al2' }","time":"2017-11-25T09:57:22.945Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":10083,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:01:42.506Z","v":0}
+{"name":"Koa-API","hostname":"Nostromo","pid":10083,"level":30,"msg":"API listening in port 3000","time":"2017-11-25T10:01:42.524Z","v":0}
