@@ -25,7 +25,13 @@ class AuthRouter {
 
       ctx.body = user
   }
+
+  static async showLogin(ctx) {
+    await ctx.render('login')
+  }
 }
 
 router.post('/sign-up', AuthRouter.signUp)
+router.get('/login', AuthRouter.showLogin)
+
 module.exports = router
